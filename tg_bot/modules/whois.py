@@ -90,7 +90,7 @@ def whois(bot: Bot, update: Update, args: List[str]):
        
     elif user.id in WHITELIST_USERS:
         text += "\n🚴‍♂️Pling,This person has been whitelisted! " \
-                        "That means I'm not allowed to ban/kick them."
+                        "That means I'm not allowed to ban/kick them.contact @Kartikrajofficial"
     
 
 
