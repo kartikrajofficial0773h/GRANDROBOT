@@ -146,7 +146,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                    [InlineKeyboardButton(text="ADD KINGBOT TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
-                                                                       url="https://github.com/Kartikrajofficial0773h/KINGBOT")
+                                                                       url="t.me/KINGBOTOFFICIAL")
                                                                                  ]]))
 
     else:
