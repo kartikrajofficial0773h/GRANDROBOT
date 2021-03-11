@@ -285,14 +285,3 @@ __help__ = """
 
 __mod_name__ = "🔸 Songs"
 
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
