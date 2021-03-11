@@ -284,7 +284,7 @@ __help__ = """
 """
 
 __mod_name__ = "🔸 Songs"
-© 2021 GitHub, Inc.
+
 Terms
 Privacy
 Security
